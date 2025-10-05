@@ -9,4 +9,4 @@ I'm Alice
 - 🔍 I love exploring new technologies and their impact on business and society.
 - 💬 Always open to collaboration and new opportunities—feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/alice-boccadifuoco-557454217/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alice-boccadifuoco-557454217/)
