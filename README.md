@@ -13,4 +13,5 @@ I'm Alice
 ---
 
 How to contact me:
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alice-boccadifuoco-557454217/)
