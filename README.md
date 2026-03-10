@@ -8,7 +8,7 @@ I'm Alice
 ---
 
 - 🔍 I love exploring new technologies and their impact on business and society.
-- 💬 Always open to collaboration and new opportunities—feel free to reach out!
+- 💬 Always open to collaboration and new opportunities, feel free to reach out!
 
 ---
 
